@@ -28,7 +28,7 @@ def aoh_update(aoh, row, key, new_value)
   
   literal_aoh[1][:name] = "Joelle van Dyne (PGOAT)"
   
-  literal_aoh
+  aoh_update
   
   
 end
